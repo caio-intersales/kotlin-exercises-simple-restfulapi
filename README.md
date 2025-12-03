@@ -9,3 +9,5 @@ This is a simple RestfulAPI made with Kotlin that allows for:
 * Delete users (providing their ID) (DELETE)
 
 To each operation there is a specific endpoint.
+
+User data is stored in a PostgreSQL database.
